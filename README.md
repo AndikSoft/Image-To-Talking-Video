@@ -10,5 +10,7 @@
     <a href="https://colab.research.google.com/drive/1pE5QvoMN1xaLYCN83TL1peMfVpUJ_5ee?usp=sharing" target="_blank">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
+    <h1>ОТКАЗ</h1>
+<p>Я не несу ответственности за любые прямые, косвенные, косвенные, случайные или особые убытки, возникшие в результате или каким-либо образом связанные с использованием/неправильным использованием или невозможностью использования данного программного обеспечения.</p>
 </body>
 </html>
